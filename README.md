@@ -23,7 +23,7 @@ front-desk software for restaurants, cafés and hotels.
 |---|---|
 | **[agentloop](https://github.com/Efecem07/agentloop)** | Minimal, transparent LLM agent framework with a built-in eval harness. No magic: one readable loop plus scenario-based evals. |
 | **[ragloop](https://github.com/Efecem07/ragloop)** | Hybrid retrieval (BM25 + dense, RRF) with a retrieval evaluation harness. No dependencies. |
-| **[ue5-mcp-server](https://github.com/Efecem07/ue5-mcp-server)** | MCP server running inside the Unreal Engine 5 Editor. 20 tools for AI agents. |
+| **[ue5-mcp-server](https://github.com/Efecem07/ue5-mcp-server)** | MCP server running inside the Unreal Engine 5 Editor. 46 tools for AI agents. |
 
 ## Stack
 
