@@ -45,9 +45,9 @@ One system for a hospitality business: guests order from a QR code at the table,
 
 ## Tools
 
-Python · FastAPI · SQLAlchemy · PostgreSQL · Redis · TypeScript · Next.js · React · Tailwind · Capacitor
-LLM APIs (OpenAI, Gemini, Groq, open models) · agents · RAG · evaluation
-Docker · GitHub Actions · nginx · Linux · n8n
+- **Product code:** Python · FastAPI · SQLAlchemy · PostgreSQL · Redis · TypeScript · Next.js · React · Tailwind · Capacitor
+- **AI:** LLM APIs (OpenAI, Gemini, Groq, NVIDIA, open models) · agents · RAG · evaluation
+- **Running it:** Docker · GitHub Actions · nginx · Linux · n8n
 
 ## Contact
 
